@@ -4,6 +4,9 @@ namespace Example
 {
     public class Calculator
     {
+        /// <summary>
+        /// Adds two integers and returns the result.
+        /// </summary>
         public int AddNumbers(int a, int b)
         {
             return a + b;
